@@ -1,0 +1,1 @@
+# Detectar-Tipo-Imagem
